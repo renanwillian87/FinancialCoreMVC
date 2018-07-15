@@ -1,0 +1,11 @@
+C:\Empresa\Source\Testes\FinancialCoreMVC\FinancialCoreMVC\bin\Debug\netcoreapp2.0\FinancialCoreMVC.deps.json
+C:\Empresa\Source\Testes\FinancialCoreMVC\FinancialCoreMVC\bin\Debug\netcoreapp2.0\FinancialCoreMVC.runtimeconfig.json
+C:\Empresa\Source\Testes\FinancialCoreMVC\FinancialCoreMVC\bin\Debug\netcoreapp2.0\FinancialCoreMVC.runtimeconfig.dev.json
+C:\Empresa\Source\Testes\FinancialCoreMVC\FinancialCoreMVC\bin\Debug\netcoreapp2.0\FinancialCoreMVC.dll
+C:\Empresa\Source\Testes\FinancialCoreMVC\FinancialCoreMVC\bin\Debug\netcoreapp2.0\FinancialCoreMVC.pdb
+C:\Empresa\Source\Testes\FinancialCoreMVC\FinancialCoreMVC\obj\Debug\netcoreapp2.0\FinancialCoreMVC.csprojAssemblyReference.cache
+C:\Empresa\Source\Testes\FinancialCoreMVC\FinancialCoreMVC\obj\Debug\netcoreapp2.0\FinancialCoreMVC.csproj.CoreCompileInputs.cache
+C:\Empresa\Source\Testes\FinancialCoreMVC\FinancialCoreMVC\obj\Debug\netcoreapp2.0\FinancialCoreMVC.AssemblyInfoInputs.cache
+C:\Empresa\Source\Testes\FinancialCoreMVC\FinancialCoreMVC\obj\Debug\netcoreapp2.0\FinancialCoreMVC.AssemblyInfo.cs
+C:\Empresa\Source\Testes\FinancialCoreMVC\FinancialCoreMVC\obj\Debug\netcoreapp2.0\FinancialCoreMVC.dll
+C:\Empresa\Source\Testes\FinancialCoreMVC\FinancialCoreMVC\obj\Debug\netcoreapp2.0\FinancialCoreMVC.pdb
